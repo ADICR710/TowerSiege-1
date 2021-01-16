@@ -15,7 +15,7 @@ var polygonIMG;
 
 function preload()
 {
-   polygonIMG=loadImage("yellow.png");
+   polygonIMG=loadImage("polygon.png");
 }
 
 function setup() {
